@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-2b-nodejs-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-js-ts-angular-modules-course/proyecto-2b-nodejs-ts.git"
+  },
+  "keywords": [],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-js-ts-angular-modules-course/proyecto-2b-nodejs-ts/issues"
+  },
+  "homepage": "https://github.com/npm-js-ts-angular-modules-course/proyecto-2b-nodejs-ts#readme",
+  "dependencies": {
+    "@types/node": "^11.9.0",
+    "proyecto-1-matematicas": "github:npm-js-ts-angular-modules-course/proyecto-1-matematicas"
+  }
+}
